@@ -10,5 +10,11 @@ ____
     https://github.com/SoLoro/SoLoro.github.io.git
 ```
 ____
+## Languages
+*HTML, CSS, SCSS, JS, PHP*
+____
+## Libraries
+*JQuery(Slick, Validate, MaskedInput), Animate, Wow, PhpMailer, Bootstrap*
+____
 ## P.S.
 ___Since this is a Github hosting, the PHP-script will not work here___
