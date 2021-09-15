@@ -17,4 +17,4 @@ ____
 *JQuery(Slick, Validate, MaskedInput), Animate, Wow, PhpMailer, Bootstrap*
 ____
 ## P.S.
-___Since this is a Github hosting, the PHP-script will not work here___
+___The following PHP-script will not work here just because it is GitHub...___
